@@ -1,3 +1,5 @@
+# 已弃用，请前往<https://github.com/ngc7331/arknights-ui-remastered>
+
 # 小造的BB
 作为一个h5、css外加javascript的三重初学者和一个学生党，我因为对明日方舟的厨力开始尝试更新此项目。
 
